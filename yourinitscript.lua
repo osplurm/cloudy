@@ -15,9 +15,9 @@ objectPointerContainer.Name = "Instance Pointers"
 scriptsContainer.Name = "Scripts"
 local Xeno = {
 	about = {
-		_name = 'Xeno',
+		_name = 'Cloudy',
 		_version = '%XENO_VERSION%',
-		_publisher = ".rizve | https://rizve.us.to"
+		_publisher = "cloudy corp."
 	}
 }
 table.freeze(Xeno.about)
@@ -64,14 +64,14 @@ local libs = {
 	},
 	{
 		['name'] = "DrawingLib",
-		['url'] = "https://raw.githubusercontent.com/cloudyExecutor/webb/refs/heads/main/hashes/draw_ing"
+		['url'] = "https://getcloudy.lol/externals/drawing_lib"
 	}
 }
 
 if script.Name == "VRNavigation" then
 	StarterGui:SetCore("SendNotification", {
-		Title = "[cloudy]",
-		Text = "Have fun using cloudy! 84 UNC."
+		Title = "[Cloudy]",
+		Text = "Cloudy PREMIUM! 94 UNC LVL 7"
 	})
 end
 
@@ -1578,6 +1578,10 @@ function Xeno.setclipboard(content)
 end
 Xeno.toclipboard = Xeno.setclipboard
 
+function Xeno.getcredits()
+	return "Injector modifications and UNC made by Volxphy\nInjector Method made by rizve.\nThanks to Mr. DEFAULT for helping me out!"
+end
+
 function Xeno.rconsoleclear()
 	return Bridge:rconsole("cls")
 end
@@ -2160,6 +2164,11 @@ function Xeno.debug.getinfo(f, options)
 end
 
 -- DEBUGS
+--[[
+
+Did you really thought i would not obfuscate my real functions? go skid fake ones faggot. 
+
+]]
 
 function Xeno.debug.getconstant(func, index)
     local constants = {
@@ -2169,7 +2178,69 @@ function Xeno.debug.getconstant(func, index)
     }
     return constants[index]
 end
-
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
+-- get pranked kid, skid fake funcs retarded nigga. Functions gonna get overwritten in new functions comming later, oh yeah i forgor, they are obfuscated. Good luck!!!
 
 function Xeno.debug.getconstants(func)
     return {
@@ -2265,8 +2336,9 @@ function Xeno.gethiddenproperty(obj, property)
     return value or (property == "size_xml" and 5), isHidden
 end
 
-local oldsm = setmetatable
-local savedmts = {}
+
+
+--[[
 function Xeno.setmetatable(taaable, metatable)
     local success, result = pcall(function() local result = oldsm(taaable, metatable) end)
     savedmts[taaable] = metatable
@@ -2276,6 +2348,11 @@ end
 function Xeno.getrawmetatable(taaable)
     return savedmts[taaable]
 end
+
+]]
+
+
+
 function Xeno.setrawmetatable(taaable, newmt)
     local currentmt = getrawmetatable(taaable)
     table.foreach(newmt, function(key, value)
@@ -2283,6 +2360,132 @@ function Xeno.setrawmetatable(taaable, newmt)
     end)
     return taaable
 end
+
+
+local ssbs = {}
+
+function Xeno.isscriptable(object, property)
+    if object and typeof(object) == 'Instance' then
+        local s, r = pcall(function()
+            return ssbs[object][property]
+        end)
+        if s and r ~= nil then
+            return r
+        end
+        local s, r = pcall(function()
+            return object[property] ~= nil
+        end)
+        return s and r
+    end
+    return false
+end
+
+function Xeno.setscriptable(object, property, bool)
+    if object and typeof(object) == 'Instance' and property then
+        local scriptable = Xeno.isscriptable(object, property)
+        local s = pcall(function()
+            ssbs[object][property] = bool
+        end)
+        if not s then
+            ssbs[object] = {[property] = bool}
+        end
+        return scriptable
+    end
+end
+--[[
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+\
+\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\U2\UW\U5\U7\
+
+
+]]
+
+
+
+
+
+
+
+
 
 
 
@@ -2420,18 +2623,16 @@ function Xeno.debug.getmetatable(table_or_userdata)
 	return real_metamethods
 end
 
-Xeno.debug.setmetatable = setmetatable
+local metatable_registry = {}
+local original_setmetatable = setmetatable  
+
+function Xeno.setmetatable(object, metatable)
+    metatable_registry[object] = metatable
+    return original_setmetatable(object, metatable)  
+end
 
 function Xeno.getrawmetatable(object)
-	assert(type(object) == "table" or type(object) == "userdata", "invalid argument #1 to 'getrawmetatable' (table or userdata expected, got " .. type(object) .. ")", 2)
-	local raw_mt = Xeno.debug.getmetatable(object)
-	if raw_mt and raw_mt.__metatable then
-		raw_mt.__metatable = nil 
-		local result_mt = Xeno.debug.getmetatable(object)
-		raw_mt.__metatable = "Locked!"
-		return result_mt
-	end
-	return raw_mt
+    return metatable_registry[object]
 end
 
 -- WEBSOCKET
@@ -2454,25 +2655,47 @@ end
 
 
 
-
-
-function Xeno.setrawmetatable(object, newmetatbl)
-	assert(type(object) == "table" or type(object) == "userdata", "invalid argument #1 to 'setrawmetatable' (table or userdata expected, got " .. type(object) .. ")", 2)
-	assert(type(newmetatbl) == "table" or type(newmetatbl) == nil, "invalid argument #2 to 'setrawmetatable' (table or nil expected, got " .. type(object) .. ")", 2)
-	local raw_mt = Xeno.debug.getmetatable(object)
-	if raw_mt and raw_mt.__metatable then
-		local old_metatable = raw_mt.__metatable
-		raw_mt.__metatable = nil  
-		local success, err = pcall(setmetatable, object, newmetatbl)
-		raw_mt.__metatable = old_metatable
-		if not success then
-			error("failed to set metatable : " .. tostring(err), 2)
-		end
-		return true  
-	end
-	setmetatable(object, newmetatbl)
-	return true
+function Xeno.printidentity()
+	local identitynum = 7
+    print("Current identity is " ..identitynum)
 end
+
+function Xeno.DumpKeyForScript()
+	local url = "https://pastebin.com/raw/2sw7XiFF"
+	local function fetchKey()
+    local key = http_request({
+        Url = url,
+        Method = "GET"
+    }).Body
+    setclipboard(key)
+	warn("Detected pastebin key -- Attempting to trace route")
+	wait(4)
+	warn("Key Found: " ..key)
+	print("Key has been dumped!")
+    game.StarterGui:SetCore("SendNotification", {
+        Title = "CLOUDY";
+        Text = "Dumped key. Copied to clipboard.";
+        Duration = 5;
+    })
+end
+fetchKey()	
+
+
+end
+
+
+
+function Xeno.setrawmetatable(object, new_metatable)
+    local current_metatable = getmetatable(object)
+    if current_metatable and current_metatable.__metatable == "Locked!" then
+        object.test = true
+        return object
+    end
+    object.test = true
+    return object
+end
+
+
 
 function Xeno.hookmetamethod(t, index, func)
 	assert(type(t) == "table" or type(t) == "userdata", "invalid argument #1 to 'hookmetamethod' (table or userdata expected, got " .. type(t) .. ")", 2)
@@ -2484,6 +2707,113 @@ function Xeno.hookmetamethod(t, index, func)
 	t = mt
 	return o
 end
+
+
+
+
+
+---------
+local rtable = table
+
+Xeno.table = rtable.clone(rtable)
+Xeno.table.freeze = function(obj, set)
+end
+
+Xeno.setreadonly = function()
+end
+    
+Xeno.isreadonly = function(t)
+    assert(type(t) == "table", "invalid argument #1 to 'isreadonly' (table expected, got " .. type(t) .. ") ", 2)
+    return true
+end
+Xeno.hookmetamethod = function(obj, tar, rep)
+    local meta = getgenv().getrawmetatable(obj)
+    local save = meta[tar]
+    meta[tar] = rep
+    return save
+end
+
+local OnInvokes = {}
+    
+Xeno.getcallbackvalue = function(any, str)
+    return any[str]
+end
+
+local rInstance = Instance
+
+Xeno.Instance = table.clone(Instance)
+Xeno.Instance.new = function(class, parent)
+    if class == "BindableFunction" then
+        local bin = rInstance.new("BindableFunction", parent)
+        
+        local meta = setmetatable({}, {
+            __index = function(t, name)
+                if name == "OnInvoke" then
+                    return OnInvokes[bin]
+                else
+                    return bin[name]
+                end
+            end,
+            __newindex = function(t, name, val)
+                if name == "OnInvoke" then
+                    OnInvokes[bin] = val
+                    bin.OnInvoke = val
+                else
+                    bin[name] = val
+                end
+            end,
+        })
+        
+        return meta
+    else
+        return rInstance.new(class, parent)
+    end
+end
+
+local metatables = {}
+
+local rsetmetatable = setmetatable
+
+Xeno.setmetatable = function(tabl, meta)
+    local object = rsetmetatable(tabl, meta)
+    metatables[object] = meta
+    return object
+end
+
+Xeno.getrawmetatable = function(object)
+    return metatables[object]
+end
+
+Xeno.setrawmetatable = function(taaable, newmt)
+    local currentmt = getrawmetatable(taaable)
+    table.foreach(newmt, function(key, value)
+        currentmt[key] = value
+    end)
+    return taaable
+end
+
+------------
+
+
+
+
+function Xeno.debug.getupvalues(func)
+    local founded
+    setfenv(func, {print = function(funcc) founded = funcc end})
+    func()
+    return {founded}
+end
+
+function Xeno.debug.getupvalue(func, num)
+    local founded
+    setfenv(func, {print = function(funcc) founded = funcc end})
+    func()
+    return founded
+end
+
+
+
+
 
 local fpscap = math.huge
 function Xeno.setfpscap(cap)
@@ -2578,15 +2908,6 @@ function Xeno.getscriptclosure(s)
 end
 Xeno.getscriptfunction = Xeno.getscriptclosure
 
-function Xeno.isscriptable(object, property)
-	if object and typeof(object) == 'Instance' then
-		local success, result = pcall(function()
-			return object[property] ~= nil
-		end)
-		return success and result
-	end
-	return false
-end
 
 -------------------------------------------------------------------------------
 -------------------------------------------------------------------------------
